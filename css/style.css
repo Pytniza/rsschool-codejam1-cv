@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 10% 20%;
+    background: #bbddfc;
+}
+h1, h3{
+    text-align: center;
+}
